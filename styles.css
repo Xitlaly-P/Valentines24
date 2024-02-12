@@ -1,0 +1,56 @@
+.great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+button {
+    height: 4rem;
+    width: 10rem;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 1px 1px 5px black;
+    background-color: #B398D1;
+    margin: 10px;
+    color: #FBFEFB;
+    font-family: "Nunito Sans", sans-serif;
+  }
+
+#yes:hover{
+    background-color: #68A691;
+}
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/005/493/084/non_2x/boho-style-hearts-bow-and-arrow-seamless-pattern-simple-illustration-in-trendy-pastel-colors-repeat-ornament-symbol-of-love-st-valentine-day-collection-for-making-cards-textile-gift-paper-vector.jpg");
+    background-repeat: repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #E2AFDE;
+}
+
+h3{
+    font-family: "Great Vibes", cursive;
+    margin-bottom: 5vw;
+    color:#482C3D;
+    font-size:3rem;
+}
+
+.button-container button {
+    display: inline-block;
+}
+
+h1, h2{
+    font-family: "Nunito Sans", sans-serif;
+    color:#482C3D;
+}
+img{
+    border: .4rem solid #B398D1;
+    height:25rem;
+    border-radius: 10px;
+}
